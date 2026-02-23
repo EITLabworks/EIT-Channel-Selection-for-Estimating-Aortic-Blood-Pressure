@@ -1,0 +1,24 @@
+cff-version: 1.0.0
+title: >-
+ EIT Channel Selection for Estimating Aortic Blood Pressure
+message: >-
+  If you use this repository, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Patricia
+    family-names: Fuchs
+    email: pat.fuchs@uni-rostock.de
+    affiliation: Universität Rostock
+    orcid: 'https://orcid.org/0009-0006-4647-633X'
+repository-code: 'https://github.com/EITLabworks//EIT-Channel-Selection-for-Estimating-Aortic-Blood-Pressure'
+url: 'https://github.com/EITLabworks/EIT-Channel-Selection-for-Estimating-Aortic-Blood-Pressure'
+keywords:
+  - EIT
+  - Aortic Blood Pressure
+  - Machine Learning
+  - Feature Selection
+license: MIT
+version: 1.0
+doi: 
+date-released: '2026-02-20'
