@@ -58,7 +58,7 @@ Clone the repository:
 ![Relevance Plot](results/plots/Bar_Relevance_total.png)
 
 ### Relevance Plot for the first 80 Channels
-![Relevance Plot.](results/plots/bar_relevance_ontitle.png)
+![Relevance Plot.](results/plots/bar_relevance_notitle.png)
 
 
 
