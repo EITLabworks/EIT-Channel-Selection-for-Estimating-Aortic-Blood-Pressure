@@ -27,7 +27,7 @@ data_path = "C:/Users\pfuchs\Documents/Data/EIT/PulHypStudie/DataOriginal/"
 data_prefix = "data/npz/"
 savePath= "/results/models/"
 modelpath = "/results/models/"
-modelname= ""
+modelname= "20260212-113936/"
 # Parsing of arguments ------------------------------------------------------------------------------------------ #
 TP = parse_arguments_new(False, 300,16)        # TrainingParameters
 
