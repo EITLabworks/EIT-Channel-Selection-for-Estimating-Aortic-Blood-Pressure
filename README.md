@@ -43,22 +43,22 @@ Clone the repository:
 
 
 ## Channel Selection Strategies
-![Definitions of the Channel Selection Strategies.](nn/plots/Channel_Selection.png)
+![Definitions of the Channel Selection Strategies.](results/plots/Channel_Selection.png)
 
 
 
 ## Evaluation Results
 ### MAE for the Structured and Data-Driven Techniques
-![MAE Results.](nn/plots/mae_fixed.png)
+![MAE Results.](results/plots/mae_fixed.png)
 
 ### MAE for the XCDC-indexed CNNs
-![MAE Results.](nn/plots/mae_xcdc.png)
+![MAE Results.](results/plots/mae_xcdc.png)
 
 ### Relevance Plot for 1024 Channels
-![Relevance Plot](nn/plots/Bar_Relevance_total.png)
+![Relevance Plot](results/plots/Bar_Relevance_total.png)
 
 ### Relevance Plot for the first 80 Channels
-![Relevance Plot.](nn/plots/bar_relevance_ontitle.png)
+![Relevance Plot.](results/plots/bar_relevance_notitle.png)
 
 
 
