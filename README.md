@@ -2,7 +2,7 @@
 Investigation, if omitting subsets of channels in 32-electrode EIT data can improve performance and lower 
 computational complexity of a CNN estimating aortic blood pressure from EIT
 
-
+![Subset selection principle.](results/plots/Structure6.png)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -48,8 +48,11 @@ Clone the repository:
 
 
 ## Evaluation Results
-### MAE for the Structured and Data-Driven Techniques
-![MAE Results.](results/plots/mae_fixed.png)
+### MAE and Channel Count for different Techniques
+![MAE Results.](results/plots/maes_with_count4.png)
+
+<!--- ### MAE for the Structured and Data-Driven Techniques  --->
+<!--- ![MAE Results.](results/plots/mae_fixed.png)  --->
 
 ### MAE for the XCDC-indexed CNNs
 ![MAE Results.](results/plots/mae_xcdc.png)
