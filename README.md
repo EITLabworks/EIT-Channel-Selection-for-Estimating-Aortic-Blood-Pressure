@@ -51,8 +51,8 @@ Clone the repository:
 ### MAE and Channel Count for different Techniques
 ![MAE Results.](results/plots/maes_with_count4.png)
 
-### MAE for the Structured and Data-Driven Techniques
-![MAE Results.](results/plots/mae_fixed.png)
+<!--- ### MAE for the Structured and Data-Driven Techniques  --->
+<!--- ![MAE Results.](results/plots/mae_fixed.png)  --->
 
 ### MAE for the XCDC-indexed CNNs
 ![MAE Results.](results/plots/mae_xcdc.png)
