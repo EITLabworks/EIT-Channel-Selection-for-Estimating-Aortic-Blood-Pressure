@@ -49,7 +49,7 @@ Clone the repository:
 
 ## Evaluation Results
 ### MAE and Channel Count for different Techniques
-![MAE Results.](results/plots/mae_with_count4.png)
+![MAE Results.](results/plots/maes_with_count4.png)
 
 ### MAE for the Structured and Data-Driven Techniques
 ![MAE Results.](results/plots/mae_fixed.png)
